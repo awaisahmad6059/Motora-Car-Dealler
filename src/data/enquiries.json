@@ -1,0 +1,29 @@
+[
+  {
+    "id": "enq-demo-001",
+    "name": "Sara Malik",
+    "email": "sara.malik@example.com",
+    "phone": "0301 4455667",
+    "message": "I'd like to schedule a test drive for the Tucson Signature this weekend. Is Saturday afternoon available?",
+    "isRead": false,
+    "createdAt": "2026-10-23T11:30:00.000Z"
+  },
+  {
+    "id": "enq-demo-002",
+    "name": "Usman Sheikh",
+    "email": "usman.sheikh@example.com",
+    "phone": "0345 1122334",
+    "message": "Could you share the complete service history and inspection report for the BMW 320i?",
+    "isRead": false,
+    "createdAt": "2026-10-22T15:10:00.000Z"
+  },
+  {
+    "id": "enq-demo-003",
+    "name": "Fatima Noor",
+    "email": "fatima.noor@example.com",
+    "phone": "0312 7788990",
+    "message": "Do you offer trade-in on a 2019 Suzuki Alto for the new Corolla Altis? What would the estimated value be?",
+    "isRead": true,
+    "createdAt": "2026-10-19T09:05:00.000Z"
+  }
+]

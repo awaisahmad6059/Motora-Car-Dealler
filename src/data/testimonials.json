@@ -1,0 +1,34 @@
+[
+  {
+    "id": "tst-001",
+    "name": "Zainab Qureshi",
+    "role": "BMW 320i owner",
+    "rating": 5,
+    "quote": "The whole experience felt genuinely premium. I pre-booked online, got a reference instantly, and the Motora team kept me updated until delivery day.",
+    "initials": "ZQ"
+  },
+  {
+    "id": "tst-002",
+    "name": "Daniyal Hussain",
+    "role": "Tucson Signature owner",
+    "rating": 5,
+    "quote": "No pressure, no hidden charges. They arranged a home test drive, explained the finance options clearly and made the paperwork effortless.",
+    "initials": "DH"
+  },
+  {
+    "id": "tst-003",
+    "name": "Mariam Siddiqui",
+    "role": "Corolla Altis owner",
+    "rating": 5,
+    "quote": "I compared three dealerships and Motora had the most transparent inspection report. My car was delivered spotless and exactly as described.",
+    "initials": "MS"
+  },
+  {
+    "id": "tst-004",
+    "name": "Omar Farooq",
+    "role": "Porsche 911 owner",
+    "rating": 5,
+    "quote": "They understand enthusiasts. The team knew every detail of the car, and the buying process was as smooth as the car itself.",
+    "initials": "OF"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "id": "bk-demo-001",
+    "reference": "MTR-20261012-0001",
+    "carId": "bmw-320i-2022",
+    "customer": {
+      "name": "Ayesha Khan",
+      "phone": "0300 1234567",
+      "email": "ayesha.khan@example.com",
+      "cnic": "35202-1234567-8",
+      "city": "Lahore",
+      "address": "House 24, Block C, Gulberg III, Lahore"
+    },
+    "type": "FullBooking",
+    "tokenAmount": 0,
+    "paymentMethod": "Bank Transfer",
+    "preferences": {
+      "color": "Portimao Blue",
+      "delivery": "Delivery",
+      "visitDate": "2026-10-20"
+    },
+    "status": "Booked",
+    "createdAt": "2026-10-12T10:20:00.000Z"
+  },
+  {
+    "id": "bk-demo-002",
+    "reference": "MTR-20261018-0002",
+    "carId": "hyundai-tucson-signature-2026",
+    "customer": {
+      "name": "Hamza Raza",
+      "phone": "0321 9876543",
+      "email": "hamza.raza@example.com",
+      "cnic": "",
+      "city": "Islamabad",
+      "address": ""
+    },
+    "type": "PreBooking",
+    "tokenAmount": 50000,
+    "paymentMethod": "Easypaisa / JazzCash",
+    "preferences": {
+      "color": "Shadow Grey",
+      "delivery": "Pickup",
+      "visitDate": "2026-10-26"
+    },
+    "status": "Pre-Booked",
+    "createdAt": "2026-10-18T16:45:00.000Z"
+  },
+  {
+    "id": "bk-demo-003",
+    "reference": "MTR-20261022-0003",
+    "carId": "toyota-fortuner-legender-2021",
+    "customer": {
+      "name": "Bilal Ahmed",
+      "phone": "0333 4567890",
+      "email": "bilal.ahmed@example.com",
+      "cnic": "17301-7654321-2",
+      "city": "Peshawar",
+      "address": "12-B, University Road, Peshawar"
+    },
+    "type": "FullBooking",
+    "tokenAmount": 0,
+    "paymentMethod": "Pay at Showroom",
+    "preferences": {
+      "color": "Attitude Black",
+      "delivery": "Pickup",
+      "visitDate": "2026-10-10"
+    },
+    "status": "Delivered",
+    "createdAt": "2026-10-22T09:15:00.000Z"
+  }
+]
